@@ -33,7 +33,9 @@ assets/
 
 ## Screenshot
 
-![Workflow Screenshot](assets/workflow-screenshot.png)
+![Workflow Screenshot 1](workflow-screenshot1.png)
+
+![Workflow Screenshot 2](workflow-screenshot2.png)
 
 ## Author
 
